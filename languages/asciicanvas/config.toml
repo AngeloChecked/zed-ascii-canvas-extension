@@ -1,0 +1,4 @@
+name = "AsciiCanvas"
+grammar = "asciicanvas"
+path_suffixes = ["asciicanvas"]
+line_comment = "// "

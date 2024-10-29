@@ -1,0 +1,11 @@
+id = "zed-ascii-canvas"
+name = "Zed Ascii Canvas"
+version = "0.0.1"
+schema_version = 1
+authors = ["Angelo Ceccato <angelochecked@gmail.com>"]
+description = "Collaborative ASCII drawing canvas for sharing ideas and sketches in pair"
+repository = "https://github.com/AngeloChecked/zed-ascii-canvas"
+
+[grammars.asciicanvas]
+repository = "https://github.com/AngeloChecked/tree-sitter-asciicanvas"
+commit = "3cd620979a981825925c14467ed08e1f158a37d2"

@@ -1,0 +1,11 @@
+{
+  "theme": {
+    "operator": "white",
+    "keyword": "black",
+    "type": "red",
+    "number": "blue",
+    "function": "yellow",
+    "variable": "green",
+    "string": "text"
+  }
+}
