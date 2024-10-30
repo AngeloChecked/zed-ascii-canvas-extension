@@ -2,7 +2,7 @@
   "theme": {
     "operator": "white",
     "keyword": "black",
-    "type": "red",
+    "constructor": "red",
     "number": "blue",
     "function": "yellow",
     "variable": "green",

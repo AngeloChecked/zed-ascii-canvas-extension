@@ -1,6 +1,6 @@
 (white) @operator
 (black) @keyword
-(red) @type
+(red) @constructor
 (blue) @number
 (yellow) @function
 (green) @variable
